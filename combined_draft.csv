@@ -1,0 +1,211 @@
+Name,Position,Team,Opp,Salary,Consensus,PPG,opp pitcher,slg,opp p era,pitcher consensus,era
+Lane Thomas,OF/UTL,WSH,PHI,3500,10.4,11.45,Michael Lorenzen,0.475,3.23,0,0
+CJ Abrams,SS/UTL,WSH,PHI,3000,10.65,10.01,Michael Lorenzen,0.408,3.23,0,0
+Joey Meneses,C1B/UTL,WSH,PHI,3000,9.86,9.63,Michael Lorenzen,0.422,3.23,0,0
+Bryce Harper,C1B/OF/UTL,PHI,WSH,3500,13.76,10.66,Joan Adon,0.442,5.14,0,0
+Fernando Tatis Jr.,OF/UTL,SD,ARI,4000,12.66,12.69,Brandon Pfaadt,0.471,6.91,0,0
+Corey Seager,SS/UTL,TEX,MIL,4300,11.34,15.16,Brandon Woodruff,0.661,1.99,0,0
+Edouard Julien,2B/UTL,MIN,PIT,2800,11.86,8.99,Andre Jackson,0.486,5.47,0,0
+Keibert Ruiz,C1B/UTL,WSH,PHI,2800,8.95,8.82,Michael Lorenzen,0.423,3.23,0,0
+Jake Alu,3B/2B/UTL,WSH,PHI,2700,8,6.82,Michael Lorenzen,0.314,3.23,0,0
+Dominic Smith,C1B/UTL,WSH,PHI,2600,8.55,6.84,Michael Lorenzen,0.346,3.23,0,0
+Stone Garrett,OF/UTL,WSH,PHI,2600,0,7.94,Michael Lorenzen,0.463,3.23,0,0
+Ildemaro Vargas,2B/SS/3B/UTL,WSH,PHI,2500,7.84,6.57,Michael Lorenzen,0.382,3.23,0,0
+Alex Call,OF/UTL,WSH,PHI,2500,7.56,7.38,Michael Lorenzen,0.293,3.23,0,0
+Marcus Semien,2B/UTL,TEX,MIL,3700,10.78,12.63,Brandon Woodruff,0.472,1.99,0,0
+Spencer Strider,P,ATL,SF,11500,0,42.88,,0,0,40.88,3.75
+Pablo Lopez,P,MIN,PIT,10800,0,37.96,,0,0,36.03,3.66
+Brandon Woodruff,P,MIL,TEX,10500,0,37.75,,0,0,29.51,1.99
+Adolis Garcia,OF/UTL,TEX,MIL,3700,10.28,12.74,Brandon Woodruff,0.511,1.99,0,0
+Nathaniel Lowe,C1B/UTL,TEX,MIL,3300,9.82,10.76,Brandon Woodruff,0.445,1.99,0,0
+Mitch Garver,C1B/UTL,TEX,MIL,3000,9.83,10.02,Brandon Woodruff,0.5,1.99,0,0
+Ezequiel Duran,SS/OF/3B/UTL,TEX,MIL,2800,8.09,9.19,Brandon Woodruff,0.474,1.99,0,0
+Leody Taveras,OF/UTL,TEX,MIL,2700,8.09,9.27,Brandon Woodruff,0.422,1.99,0,0
+J.P. Martinez,OF/UTL,TEX,MIL,2300,7.07,9.33,Brandon Woodruff,0.474,1.99,0,0
+Josh Smith,OF/SS/3B/UTL,TEX,MIL,2200,8.74,4.89,Brandon Woodruff,0.336,1.99,0,0
+Randy Arozarena,OF/UTL,TB,LAA,3600,13,11.18,Tyler Anderson,0.425,5.28,0,0
+Yandy Diaz,C1B/3B/UTL,TB,LAA,3600,12.61,11.65,Tyler Anderson,0.506,5.28,0,0
+Josh Lowe,OF/UTL,TB,LAA,3200,0,10.62,Tyler Anderson,0.482,5.28,0,0
+Jose Siri,OF/UTL,TB,LAA,3100,10.79,10.21,Tyler Anderson,0.511,5.28,0,0
+Isaac Paredes,3B/C1B/2B/UTL,TB,LAA,3100,11.62,10.37,Tyler Anderson,0.493,5.28,0,0
+Brandon Lowe,2B/UTL,TB,LAA,2900,0,10.05,Tyler Anderson,0.433,5.28,0,0
+Harold Ramirez,OF/UTL,TB,LAA,2600,11.44,8.46,Tyler Anderson,0.441,5.28,0,0
+Osleivis Basabe,SS/UTL,TB,LAA,2400,8.54,7.1,Tyler Anderson,0.214,5.28,0,0
+Christian Bethancourt,C1B/UTL,TB,LAA,2200,9.68,6.46,Tyler Anderson,0.373,5.28,0,0
+Thairo Estrada,2B/SS/UTL,SF,ATL,3100,8.26,11.16,Spencer Strider,0.432,3.75,0,0
+Michael Conforto,OF/UTL,SF,ATL,2900,9.01,9.28,Spencer Strider,0.411,3.75,0,0
+Wilmer Flores,C1B/3B/2B/UTL,SF,ATL,2900,9.42,8.98,Spencer Strider,0.537,3.75,0,0
+Joc Pederson,OF/UTL,SF,ATL,2800,9.18,8.55,Spencer Strider,0.414,3.75,0,0
+LaMonte Wade Jr.,C1B/UTL,SF,ATL,2700,9.74,8.51,Spencer Strider,0.406,3.75,0,0
+J.D. Davis,3B/UTL,SF,ATL,2600,7.72,8.55,Spencer Strider,0.41,3.75,0,0
+Patrick Bailey,C1B/UTL,SF,ATL,2400,8.05,8.12,Spencer Strider,0.414,3.75,0,0
+Brandon Crawford,SS/UTL,SF,ATL,2300,7.55,6.75,Spencer Strider,0.322,3.75,0,0
+Blake Sabol,C1B/OF/UTL,SF,ATL,2300,7.68,6.98,Spencer Strider,0.398,3.75,0,0
+Julio Rodriguez,OF/UTL,SEA,HOU,3900,11.58,12.66,J.P. France,0.451,2.74,0,0
+Cal Raleigh,C1B/UTL,SEA,HOU,3000,9.76,9.45,J.P. France,0.458,2.74,0,0
+Ty France,C1B/UTL,SEA,HOU,2900,9.29,9.04,J.P. France,0.387,2.74,0,0
+Eugenio Suarez,3B/UTL,SEA,HOU,2700,10.61,9.44,J.P. France,0.387,2.74,0,0
+Cade Marlowe,OF/UTL,SEA,HOU,2600,8.52,8.86,J.P. France,0.483,2.74,0,0
+Teoscar Hernandez,OF/UTL,SEA,HOU,2600,9.27,9.15,J.P. France,0.42,2.74,0,0
+Dylan Moore,OF/SS/2B/UTL,SEA,HOU,2500,10.2,7.01,J.P. France,0.487,2.74,0,0
+Josh Rojas,3B/2B/UTL,SEA,HOU,2400,7.54,7.17,J.P. France,0.303,2.74,0,0
+Dominic Canzone,OF/UTL,SEA,HOU,2400,8.03,6.14,J.P. France,0.333,2.74,0,0
+Juan Soto,OF/UTL,SD,ARI,3600,12.26,12.08,Brandon Pfaadt,0.495,6.91,0,0
+Manny Machado,3B/UTL,SD,ARI,3500,11.33,10.73,Brandon Pfaadt,0.444,6.91,0,0
+Ha-Seong Kim,2B/3B/SS/UTL,SD,ARI,3100,11.7,10.59,Brandon Pfaadt,0.44,6.91,0,0
+Gary Sanchez,C1B/UTL,SD,ARI,2900,10.01,9.83,Brandon Pfaadt,0.495,6.91,0,0
+Xander Bogaerts,SS/UTL,SD,ARI,2900,10.44,9.35,Brandon Pfaadt,0.397,6.91,0,0
+Jake Cronenworth,C1B/2B/UTL,SD,ARI,2800,9.78,8.74,Brandon Pfaadt,0.388,6.91,0,0
+Trent Grisham,OF/UTL,SD,ARI,2600,8.76,8.54,Brandon Pfaadt,0.381,6.91,0,0
+Garrett Cooper,C1B/UTL,SD,ARI,2500,9.42,8.27,Brandon Pfaadt,0.431,6.91,0,0
+Bryan Reynolds,OF/UTL,PIT,MIN,3500,10.78,10.99,Pablo Lopez,0.469,3.66,0,0
+Ke'Bryan Hayes,3B/UTL,PIT,MIN,3300,9.28,9.34,Pablo Lopez,0.422,3.66,0,0
+Andrew McCutchen,OF/UTL,PIT,MIN,2900,9.04,9.51,Pablo Lopez,0.381,3.66,0,0
+Jack Suwinski,OF/UTL,PIT,MIN,2900,9.46,9.54,Pablo Lopez,0.455,3.66,0,0
+Henry Davis,C1B/OF/UTL,PIT,MIN,2700,8.56,8.55,Pablo Lopez,0.352,3.66,0,0
+Liover Peguero,SS/2B/UTL,PIT,MIN,2500,6.8,9.26,Pablo Lopez,0.5,3.66,0,0
+Alfonso Rivas,C1B/UTL,PIT,MIN,2500,7.06,5.9,Pablo Lopez,0.412,3.66,0,0
+Connor Joe,C1B/OF/UTL,PIT,MIN,2400,9.27,7.73,Pablo Lopez,0.427,3.66,0,0
+Alika Williams,SS/UTL,PIT,MIN,2100,6.66,3.4,Pablo Lopez,0.24,3.66,0,0
+Kyle Schwarber,OF/UTL,PHI,WSH,3500,14.48,11,Joan Adon,0.418,5.14,0,0
+Nick Castellanos,OF/UTL,PHI,WSH,3200,11.51,10.67,Joan Adon,0.47,5.14,0,0
+Bryson Stott,2B/UTL,PHI,WSH,3100,12.24,10.4,Joan Adon,0.438,5.14,0,0
+J.T. Realmuto,C1B/UTL,PHI,WSH,3100,11.3,9.91,Joan Adon,0.461,5.14,0,0
+Trea Turner,SS/UTL,PHI,WSH,3000,11.39,10,Joan Adon,0.394,5.14,0,0
+Alec Bohm,3B/C1B/UTL,PHI,WSH,3000,11.63,10.07,Joan Adon,0.424,5.14,0,0
+Johan Rojas,OF/UTL,PHI,WSH,2600,9.3,8.13,Joan Adon,0.406,5.14,0,0
+Jake Cave,OF/UTL,PHI,WSH,2300,9.77,6.39,Joan Adon,0.365,5.14,0,0
+Zack Gelof,3B/UTL,OAK,BAL,4000,10.63,14.25,Kyle Gibson,0.633,4.89,0,0
+Esteury Ruiz,OF/UTL,OAK,BAL,3000,8.18,10.35,Kyle Gibson,0.331,4.89,0,0
+Brent Rooker,OF/UTL,OAK,BAL,2900,9.29,9.02,Kyle Gibson,0.458,4.89,0,0
+Seth Brown,OF/UTL,OAK,BAL,2600,10.07,7.84,Kyle Gibson,0.414,4.89,0,0
+Shea Langeliers,C1B/UTL,OAK,BAL,2500,8.03,7.16,Kyle Gibson,0.359,4.89,0,0
+Jordan Diaz,2B/UTL,OAK,BAL,2500,8.74,6.54,Kyle Gibson,0.408,4.89,0,0
+Tyler Soderstrom,C1B/UTL,OAK,BAL,2300,7.51,5.03,Kyle Gibson,0.263,4.89,0,0
+Nick Allen,SS/UTL,OAK,BAL,2200,6.71,4.57,Kyle Gibson,0.268,4.89,0,0
+Lawrence Butler,OF/UTL,OAK,BAL,2100,7.53,7.23,Kyle Gibson,0.5,4.89,0,0
+Aaron Judge,OF/UTL,NYY,BOS,4000,13.1,13.83,Brayan Bello,0.615,3.81,0,0
+Gleyber Torres,2B/UTL,NYY,BOS,3000,10.6,9.86,Brayan Bello,0.433,3.81,0,0
+Giancarlo Stanton,OF/UTL,NYY,BOS,2900,10.64,9.83,Brayan Bello,0.444,3.81,0,0
+Anthony Volpe,SS/UTL,NYY,BOS,2900,8.64,8.55,Brayan Bello,0.388,3.81,0,0
+Harrison Bader,OF/UTL,NYY,BOS,2800,9.12,9.36,Brayan Bello,0.398,3.81,0,0
+Jake Bauers,C1B/OF/UTL,NYY,BOS,2600,11.76,7.68,Brayan Bello,0.446,3.81,0,0
+DJ LeMahieu,3B/C1B/2B/UTL,NYY,BOS,2500,9.34,7.37,Brayan Bello,0.372,3.81,0,0
+Isiah Kiner-Falefa,SS/OF/3B/UTL,NYY,BOS,2300,8.75,6.9,Brayan Bello,0.362,3.81,0,0
+Kyle Higashioka,C1B/UTL,NYY,BOS,2200,7.84,5.35,Brayan Bello,0.378,3.81,0,0
+Pete Alonso,C1B/UTL,NYM,STL,3700,12.43,12.36,Zack Thompson,0.528,3.96,0,0
+Francisco Lindor,SS/UTL,NYM,STL,3600,12.1,11.78,Zack Thompson,0.46,3.96,0,0
+Brandon Nimmo,OF/UTL,NYM,STL,3000,10.89,10.42,Zack Thompson,0.444,3.96,0,0
+Jonathan Arauz,2B/UTL,NYM,STL,2000,7.4,5.99,Zack Thompson,0.294,3.96,0,0
+Francisco Alvarez,C1B/UTL,NYM,STL,2800,10.79,8.58,Zack Thompson,0.464,3.96,0,0
+Jeff McNeil,2B/OF/UTL,NYM,STL,2700,9.4,7.87,Zack Thompson,0.341,3.96,0,0
+DJ Stewart,OF/UTL,NYM,STL,2400,0,5.85,Zack Thompson,0.5,3.96,0,0
+Daniel Vogelbach,C1B/UTL,NYM,STL,2400,0,6.69,Zack Thompson,0.373,3.96,0,0
+Rafael Ortega,OF/UTL,NYM,STL,2300,8.25,7.13,Zack Thompson,0.292,3.96,0,0
+Jorge Polanco,3B/2B/UTL,MIN,PIT,3100,11.61,9.66,Andre Jackson,0.44,5.47,0,0
+Matt Wallner,OF/UTL,MIN,PIT,2900,10.28,9.62,Andre Jackson,0.523,5.47,0,0
+Ryan Jeffers,C1B/UTL,MIN,PIT,2800,9.91,8.17,Andre Jackson,0.48,5.47,0,0
+Max Kepler,OF/UTL,MIN,PIT,2800,10.82,9.07,Andre Jackson,0.471,5.47,0,0
+Carlos Correa,SS/UTL,MIN,PIT,2700,10.84,9.08,Andre Jackson,0.409,5.47,0,0
+Michael A. Taylor,OF/UTL,MIN,PIT,2500,9.19,6.82,Andre Jackson,0.413,5.47,0,0
+Joey Gallo,C1B/OF/UTL,MIN,PIT,2400,9.08,7.74,Andre Jackson,0.458,5.47,0,0
+Christian Vazquez,C1B/UTL,MIN,PIT,2200,8.22,5.71,Andre Jackson,0.296,5.47,0,0
+Christian Yelich,OF/UTL,MIL,TEX,3800,11.14,12.4,Andrew Heaney,0.456,4.17,0,0
+Sal Frelick,OF/UTL,MIL,TEX,3500,0,11.18,Andrew Heaney,0.429,4.17,0,0
+William Contreras,C1B/UTL,MIL,TEX,3100,11.76,9.94,Andrew Heaney,0.438,4.17,0,0
+Carlos Santana,C1B/UTL,MIL,TEX,2900,10.2,9.5,Andrew Heaney,0.398,4.17,0,0
+Willy Adames,SS/UTL,MIL,TEX,2900,9.78,9,Andrew Heaney,0.375,4.17,0,0
+Andruw Monasterio,SS/2B/3B/UTL,MIL,TEX,2600,9.23,7.84,Andrew Heaney,0.393,4.17,0,0
+Mark Canha,OF/C1B/UTL,MIL,TEX,2400,10.27,7.28,Andrew Heaney,0.375,4.17,0,0
+Brice Turang,2B/SS/UTL,MIL,TEX,2400,8.5,6.7,Andrew Heaney,0.326,4.17,0,0
+Tyrone Taylor,OF/UTL,MIL,TEX,2300,9.32,5.36,Andrew Heaney,0.331,4.17,0,0
+Jake Burger,3B/UTL,MIA,LAD,3100,9.58,9.95,Tony Gonsolin,0.522,4.24,0,0
+Jorge Soler,OF/UTL,MIA,LAD,3000,10.64,10.91,Tony Gonsolin,0.501,4.24,0,0
+Jazz Chisholm Jr.,OF/UTL,MIA,LAD,3000,10.55,10.38,Tony Gonsolin,0.45,4.24,0,0
+Josh Bell,C1B/UTL,MIA,LAD,3000,9.44,8.79,Tony Gonsolin,0.418,4.24,0,0
+Luis Arraez,2B/UTL,MIA,LAD,2900,9.19,9.57,Tony Gonsolin,0.465,4.24,0,0
+Bryan De La Cruz,OF/UTL,MIA,LAD,2600,8.93,9.06,Tony Gonsolin,0.427,4.24,0,0
+Jesus Sanchez,OF/UTL,MIA,LAD,2400,8.4,7.69,Tony Gonsolin,0.469,4.24,0,0
+Joey Wendle,SS/UTL,MIA,LAD,2100,7.01,5.26,Tony Gonsolin,0.326,4.24,0,0
+Nick Fortes,C1B/UTL,MIA,LAD,2100,0,5.14,Tony Gonsolin,0.311,4.24,0,0
+Mookie Betts,OF/2B/SS/UTL,LAD,MIA,4400,12.59,14.55,Sandy Alcantara,0.579,4.09,0,0
+Freddie Freeman,C1B/UTL,LAD,MIA,4200,12.22,14.64,Sandy Alcantara,0.581,4.09,0,0
+Max Muncy,3B/UTL,LAD,MIA,3600,10.65,12,Sandy Alcantara,0.466,4.09,0,0
+Will Smith,C1B/UTL,LAD,MIA,3600,10.45,11.5,Sandy Alcantara,0.465,4.09,0,0
+James Outman,OF/UTL,LAD,MIA,2900,9.04,9.77,Sandy Alcantara,0.431,4.09,0,0
+Amed Rosario,SS/UTL,LAD,MIA,2800,0,9.12,Sandy Alcantara,0.383,4.09,0,0
+Chris Taylor,OF/3B/SS/UTL,LAD,MIA,2600,0,8.75,Sandy Alcantara,0.426,4.09,0,0
+Kike Hernandez,2B/SS/OF/UTL,LAD,MIA,2400,0,7.32,Sandy Alcantara,0.342,4.09,0,0
+Miguel Rojas,SS/2B/UTL,LAD,MIA,2300,7.66,6.11,Sandy Alcantara,0.297,4.09,0,0
+Shohei Ohtani,OF/UTL,LAA,TB,4500,13.15,15.16,Erasmo Ramirez,0.664,5.72,0,0
+Mickey Moniak,OF/UTL,LAA,TB,2900,9.43,9.85,Erasmo Ramirez,0.502,5.72,0,0
+Brandon Drury,C1B/2B/UTL,LAA,TB,2700,10.34,9.51,Erasmo Ramirez,0.471,5.72,0,0
+Luis Rengifo,2B/SS/OF/UTL,LAA,TB,2700,9.59,7.55,Erasmo Ramirez,0.388,5.72,0,0
+Randal Grichuk,OF/UTL,LAA,TB,2700,8.73,9.46,Erasmo Ramirez,0.473,5.72,0,0
+Hunter Renfroe,OF/UTL,LAA,TB,2600,9.41,8.79,Erasmo Ramirez,0.433,5.72,0,0
+Mike Moustakas,C1B/3B/UTL,LAA,TB,2600,9.55,8.11,Erasmo Ramirez,0.452,5.72,0,0
+Matt Thaiss,C1B/UTL,LAA,TB,2300,7.39,6.54,Erasmo Ramirez,0.346,5.72,0,0
+Eduardo Escobar,3B/2B/UTL,LAA,TB,2200,0,6.55,Erasmo Ramirez,0.373,5.72,0,0
+Jose Altuve,2B/UTL,HOU,SEA,4400,11.24,14.28,Bryce Miller,0.536,4.04,0,0
+Yordan Alvarez,OF/UTL,HOU,SEA,4100,12.59,13.36,Bryce Miller,0.571,4.04,0,0
+Kyle Tucker,OF/UTL,HOU,SEA,4000,12.52,13.05,Bryce Miller,0.526,4.04,0,0
+Chas McCormick,OF/UTL,HOU,SEA,3400,9.37,12.05,Bryce Miller,0.539,4.04,0,0
+Alex Bregman,3B/UTL,HOU,SEA,3400,10.35,10.91,Bryce Miller,0.418,4.04,0,0
+Jeremy Pena,SS/UTL,HOU,SEA,2800,8.59,8.95,Bryce Miller,0.369,4.04,0,0
+Mauricio Dubon,2B/SS/OF/UTL,HOU,SEA,2600,0,8.16,Bryce Miller,0.366,4.04,0,0
+Jon Singleton,C1B/UTL,HOU,SEA,2300,8.29,6.76,Bryce Miller,0.259,4.04,0,0
+Martin Maldonado,C1B/UTL,HOU,SEA,2200,6.43,5.5,Bryce Miller,0.308,4.04,0,0
+Luis Robert Jr.,OF/UTL,CWS,COL,4400,15.59,12.31,Peter Lambert,0.567,5.46,0,0
+Eloy Jimenez,OF/UTL,CWS,COL,3500,13.38,9.38,Peter Lambert,0.452,5.46,0,0
+Andrew Vaughn,C1B/UTL,CWS,COL,3400,12.02,9.21,Peter Lambert,0.425,5.46,0,0
+Andrew Benintendi,OF/UTL,CWS,COL,3100,13.78,8.39,Peter Lambert,0.354,5.46,0,0
+Yoan Moncada,3B/UTL,CWS,COL,3000,12.49,7.14,Peter Lambert,0.354,5.46,0,0
+Elvis Andrus,SS/2B/UTL,CWS,COL,2900,13.35,7.05,Peter Lambert,0.318,5.46,0,0
+Gavin Sheets,C1B/OF/UTL,CWS,COL,2800,0,5.59,Peter Lambert,0.366,5.46,0,0
+Yasmani Grandal,C1B/UTL,CWS,COL,2800,11.68,6.49,Peter Lambert,0.356,5.46,0,0
+Oscar Colas,OF/UTL,CWS,COL,2800,10.95,5.76,Peter Lambert,0.285,5.46,0,0
+Ryan McMahon,2B/3B/UTL,COL,CWS,3700,13.15,10.41,Michael Kopech,0.464,4.58,0,0
+Nolan Jones,OF/C1B/UTL,COL,CWS,3400,12.25,10.12,Michael Kopech,0.505,4.58,0,0
+Ezequiel Tovar,SS/UTL,COL,CWS,3300,13.12,9.02,Michael Kopech,0.432,4.58,0,0
+Jurickson Profar,OF/UTL,COL,CWS,3200,10.98,8.48,Michael Kopech,0.367,4.58,0,0
+Elias Diaz,C1B/UTL,COL,CWS,3100,11.59,7.76,Michael Kopech,0.405,4.58,0,0
+Michael Toglia,C1B/UTL,COL,CWS,2800,0,4.97,Michael Kopech,0.245,4.58,0,0
+Brendan Rodgers,2B/UTL,COL,CWS,2800,11.42,6.58,Michael Kopech,0.277,4.58,0,0
+Brenton Doyle,OF/UTL,COL,CWS,2800,10.08,7.09,Michael Kopech,0.328,4.58,0,0
+Elehuris Montero,3B/C1B/UTL,COL,CWS,2700,9.6,6.14,Michael Kopech,0.347,4.58,0,0
+Ronald Acuna Jr.,OF/UTL,ATL,SF,4700,14.41,16.49,Alex Cobb,0.573,3.62,0,0
+Matt Olson,C1B/UTL,ATL,SF,4500,13.27,14.73,Alex Cobb,0.615,3.62,0,0
+Austin Riley,3B/UTL,ATL,SF,4000,11.7,12.02,Alex Cobb,0.514,3.62,0,0
+Travis d'Arnaud,C1B/UTL,ATL,SF,2900,0,9.38,Alex Cobb,0.452,3.62,0,0
+Michael Harris II,OF/UTL,ATL,SF,2900,12.86,9.41,Alex Cobb,0.445,3.62,0,0
+Eddie Rosario,OF/UTL,ATL,SF,2800,10.16,8.77,Alex Cobb,0.464,3.62,0,0
+Marcell Ozuna,OF/UTL,ATL,SF,2700,10.78,10.14,Alex Cobb,0.481,3.62,0,0
+Orlando Arcia,SS/UTL,ATL,SF,2700,9.26,8.81,Alex Cobb,0.443,3.62,0,0
+Nicky Lopez,3B/2B/SS/UTL,ATL,SF,2100,8.05,5.68,Alex Cobb,0.316,3.62,0,0
+Corbin Carroll,OF/UTL,ARI,SD,3800,11.86,12.78,Seth Lugo,0.504,4.16,0,0
+Christian Walker,C1B/UTL,ARI,SD,3600,9.9,12.08,Seth Lugo,0.54,4.16,0,0
+Ketel Marte,2B/UTL,ARI,SD,3400,10.85,11.33,Seth Lugo,0.482,4.16,0,0
+Lourdes Gurriel Jr.,OF/UTL,ARI,SD,3000,9.35,9.89,Seth Lugo,0.467,4.16,0,0
+Tommy Pham,OF/UTL,ARI,SD,2900,8.94,9.19,Seth Lugo,0.467,4.16,0,0
+Geraldo Perdomo,SS/2B/UTL,ARI,SD,2800,7.87,8.79,Seth Lugo,0.403,4.16,0,0
+Buddy Kennedy,3B/UTL,ARI,SD,2000,0,7.23,Seth Lugo,0.2,4.16,0,0
+Nick Ahmed,SS/UTL,ARI,SD,2300,0,5.39,Seth Lugo,0.331,4.16,0,0
+Alek Thomas,OF/UTL,ARI,SD,2300,8.56,6.67,Seth Lugo,0.407,4.16,0,0
+Michael Lorenzen,P,PHI,WSH,10200,0,29.85,,0,0,24.51,3.23
+Sandy Alcantara,P,MIA,LAD,10000,0,30.75,,0,0,25.59,4.09
+Kyle Gibson,P,BAL,OAK,9900,0,27.2,,0,0,28.76,4.89
+J.P. France,P,HOU,SEA,9700,0,31.18,,0,0,27.21,2.74
+Brayan Bello,P,BOS,NYY,9000,0,28.8,,0,0,26.49,3.81
+Seth Lugo,P,SD,ARI,8800,0,27.94,,0,0,28.63,4.16
+Andrew Heaney,P,TEX,MIL,8600,0,27.09,,0,0,25.92,4.17
+Bryce Miller,P,SEA,HOU,8400,0,28.35,,0,0,23.23,4.04
+Tony Gonsolin,P,LAD,MIA,8000,0,24.32,,0,0,26.25,4.24
+Alex Cobb,P,SF,ATL,7800,0,28.36,,0,0,22.22,3.62
+Michael Kopech,P,CWS,COL,7400,0,25.59,,0,0,25.02,4.58
+Tyler Anderson,P,LAA,TB,7300,0,22.14,,0,0,24.88,5.28
+Brandon Pfaadt,P,ARI,SD,6800,0,17.82,,0,0,20.89,6.91
+Zack Thompson,P,STL,NYM,6200,0,9.18,,0,0,21.28,3.96
+Peter Lambert,P,COL,CWS,6000,0,12.15,,0,0,16.32,5.46
+Joan Adon,P,WSH,PHI,5900,0,17.5,,0,0,19.54,5.14
+Andre Jackson,P,PIT,MIN,5800,0,11.5,,0,0,19.33,5.47
+Erasmo Ramirez,P,TB,LAA,5600,0,4.37,,0,0,14.21,5.72
